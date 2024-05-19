@@ -1,6 +1,6 @@
 # Contact Management System
 
-The Contact Management System is a Java application designed to efficiently manage contacts. It offers functionalities like adding, removing, viewing contacts, finding contacts by name, email, or phone number, and generating **fake contacts** for testing purposes.
+The Contact Management System is a Java application designed to efficiently manage contacts. It offers functionalities like adding, removing, viewing contacts, finding contacts by name, email, or phone number, and generating fake contacts for testing purposes.
 
 ## Features
 
@@ -9,16 +9,16 @@ The Contact Management System is a Java application designed to efficiently mana
 - **Add Contact:** Add a new contact to the system.
 - **Remove Contact:** Remove a contact from the system. Option to remove all contacts at once.
 - **Generate Fake Contacts:** Add a specified number of randomly generated fake contacts for testing purposes.
-- **Data Persistence:** Contacts are saved to a text file (`contacts.txt`) for persistence between program runs.
+- **Data Persistence:** Contacts are saved to a text file (``contacts.txt``) for persistence between program runs.
 
 ## Usage
 
-1. **View All Contacts:** Choose option 1 from the menu.
-2. **Find Contact:** Choose option 2 from the menu and enter the name, email, or phone number of the contact to search for.
-3. **Add Contact:** Choose option 3 from the menu and provide details like name, email, phone number, membership status (true/false), and order quantity.
-4. **Remove Contact:** Choose option 4 from the menu and enter the name of the contact to remove. Use 'all' to remove all contacts.
-5. **Generate Fake Contacts:** Choose option 5 from the menu and enter the number of fake contacts to generate.
-6. **Exit:** Choose option 9 from the menu to exit the program.
+1. **View All Contacts:** Choose option `1` from the menu.
+2. **Find Contact:** Choose option `2` from the menu and enter the name, email, or phone number of the contact to search for.
+3. **Add Contact:** Choose option `3` from the menu and provide details like name, email, phone number, membership status (true/false), and order quantity.
+4. **Remove Contact:** Choose option `4` from the menu and enter the name of the contact to remove. Use 'all' to remove all contacts.
+5. **Generate Fake Contacts:** Choose option `5` from the menu and enter the number of fake contacts to generate.
+6. **Exit:** Choose option `9` from the menu to exit the program.
 
 ## How to Run
 
@@ -38,3 +38,8 @@ The Contact Management System is a Java application designed to efficiently mana
 - For issues or suggestions, feel free to raise an issue in the repository.
 
 Enjoy managing your contacts with this simple yet efficient Contact Management System!
+
+---
+
+*Contact Management System created by Serafim Petrov*
+![Alt Text](https://avatars.githubusercontent.com/u/148495939?v=4)
