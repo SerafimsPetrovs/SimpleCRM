@@ -1,0 +1,2 @@
+Test,test@gmail.com,+371 test,true,22
+TEST,test@inbox.com,+371test,false,2
