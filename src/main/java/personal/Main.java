@@ -3,6 +3,7 @@ package personal;
 import com.github.javafaker.Faker;
 
 public class Main {
+    // TEST
     public static void main(String[] args) {
         CRMSystem crm = new CRMSystem();
 
